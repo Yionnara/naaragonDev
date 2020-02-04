@@ -15,5 +15,9 @@
         <li class="nav-item">
             <a class="nav-link" href="#">Expérience</a>
         </li>
+        <ul class="dropdown-menu">External links
+            <li><a target="_blank" href="/PT1/index.html">PT1</a></li>
+            <li><a target="_blank" href="/project_ressource_repo">Class Diagram AdventureGame</a></li>
+        </ul>
     </ul>
 </nav>
